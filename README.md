@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Gabriel Santana👋😀
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/gabxdev/](https://www.instagram.com/gabxmundo?igsh=dTB2MGpwazc4bWNm))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([[https://www.instagram.com/gabxmundo/]])
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGbx&show_icons=true&theme=dracula)
